@@ -4,6 +4,7 @@ Developed a machine learning project to predict customer purchase behavior using
 The workflow includes data preprocessing, feature scaling, model training, evaluation, and visualization.
 
 🔹 Technologies
+
 Python
 Pandas
 Scikit-learn
